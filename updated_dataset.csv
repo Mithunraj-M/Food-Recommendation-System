@@ -1,0 +1,134 @@
+Cuisine,Dish name,Dish,taste,temperature,spice level,sweet level,salt level,sour level,bitter level
+Chinese,panneer manchurian,Panneer Manchurian,Spicy,Hot,6,2.0,4.0,3.0,1.0
+Italian,lasagna,Lasagna,Spicy,Hot,5,2.0,6.0,2.0,1.0
+Indian,masala dosa,Masala Dosa,Spicy,Hot,5,2.0,3.0,1.0,1.0
+American,pizza,pizza,Salty,Hot,4,1.0,5.0,4.0,3.4444444444444446
+American,cheesecake,Cheesecake,Sweet,Cold,1,5.0,3.6578947368421053,4.0,3.4444444444444446
+American,burger and pizza,Burger and pizza,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,masala dose,Masala dose,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,kaju masala with naan,Kaju Masala with Naan,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,ragi ball,Ragi ball,Spicy,Hot,2,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,veg biriyani,Veg Biriyani,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,dosa,Dosa,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,fries,Fries,Salty,Hot,3,5.930232558139535,4.0,4.0,3.4444444444444446
+Chinese,chicken momos,Chicken Momos,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,cheese nachos,Cheese Nachos,Salty,Cold,3,5.930232558139535,5.0,4.0,3.4444444444444446
+Indian,ghee roast chicken ,Ghee roast chicken ,Spicy,Hot,7,1.0,4.0,1.0,1.0
+Indian,paneer butter masala ,Paneer butter masala ,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,live crickets glazed in soy sauce served with wasabi,live crickets glazed in soy sauce served with wasabi,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Korean,kimchi,Kimchi,Spicy,Cold,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chicken biryani ,Chicken Biryani ,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,rasmalai,Rasmalai,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Italian,pesto pasta,Pesto Pasta,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,shahi paneer,Shahi Paneer,Sweet,Hot,2,4.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,paneer tikka,Paneer tikka,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,ghee dosa,Ghee Dosa,Salty,Hot,3,5.930232558139535,4.0,4.0,3.4444444444444446
+American,bacon,Bacon,Salty,Hot,3,5.930232558139535,6.0,4.0,3.4444444444444446
+Indian,idly,Idly,Sour,Hot,0,5.930232558139535,3.6578947368421053,3.0,3.4444444444444446
+Italian,risotto,Risotto,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,momos,Momos,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Korean,ramyun,Ramyun,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,gnocchi,Gnocchi,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,gelato,Gelato,Sweet,Cold,1,8.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,misal pav,Misal Pav,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,parma ham,Parma Ham,Salty,Cold,4,5.930232558139535,6.0,4.0,3.4444444444444446
+Korean,korean ramen,Korean Ramen,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,naan and dal tadka,Naan and dal tadka,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,ribollita,Ribollita,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,pani puri,Pani Puri,Spicy,Cold,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,cookies,Cookies,Sweet,Hot,0,7.0,3.6578947368421053,4.0,3.4444444444444446
+Chinese,gobi noodles mix,Gobi Noodles Mix,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,hot dog,Hot Dog,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,dim sums,Dim Sums,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Korean,kimbap,Kimbap,Sweet,Cold,4,5.0,3.6578947368421053,4.0,3.4444444444444446
+Chinese,szechwan chilli chicken,Szechwan Chilli Chicken,Spicy,Hot,8,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,spring rolls,Spring rolls,Salty,Hot,5,5.930232558139535,6.0,4.0,3.4444444444444446
+Italian,pizza,Pizza,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,stir fried tofu,Stir fried Tofu,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,honey chilli potato,Honey Chilli Potato,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,peri peri chicken satay,Peri Peri Chicken Satay,Spicy,Hot,8,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,cantonese chicken soup,Cantonese Chicken Soup,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,death by chocolate ice cream,Death by Chocolate ice cream,Sweet,Cold,1,8.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,rasgulla,Rasgulla,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,tea,Tea,Bitter,Hot,2,5.0,3.6578947368421053,4.0,5.0
+Indian,masala dosa,Masala Dosa,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,vada,Vada,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,pakoda,Pakoda,Salty,Hot,3,5.930232558139535,6.0,4.0,3.4444444444444446
+Indian,pav bhaji,Pav Bhaji,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,carrot halwa,Carrot Halwa,Sweet,Cold,1,8.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,gulab jamun,Gulab Jamun,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,rasamalai,Rasamalai,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,jalebi,Jalebi,Sweet,Hot,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,kaju katli,Kaju katli,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,chicken 65,Chicken 65,Spicy,Hot,6,0.0,3.6578947368421053,4.0,3.4444444444444446
+American,fresh southern peach cobbler,Fresh Southern Peach Cobbler,Sweet,Cold,1,6.0,3.6578947368421053,4.0,3.4444444444444446
+American,mcveggie burger,McVeggie Burger,Salty,Hot,3,5.930232558139535,6.0,4.0,3.4444444444444446
+Indian,amul icecream,Amul Icecream,Sweet,Cold,1,8.0,1.0,4.0,3.4444444444444446
+American,bananas foster,Bananas Foster,Sweet,Cold,1,7.0,1.0,4.0,3.4444444444444446
+American,pastry,Pastry,Sweet,Cold,1,7.0,1.0,4.0,3.4444444444444446
+American,pecan pie,Pecan Pie,Sweet,Cold,1,7.0,1.0,4.0,3.4444444444444446
+American,texas sheet cake,Texas Sheet Cake,Sweet,Cold,1,7.0,1.0,4.0,3.4444444444444446
+American,watergate salad,Watergate Salad,Sweet,Cold,1,6.0,1.0,4.0,3.4444444444444446
+American,fresh baked cherry pie,Fresh baked cherry Pie,Sweet,Cold,1,6.0,1.0,4.0,3.4444444444444446
+American,banana pudding,Banana Pudding,Sweet,Cold,1,6.0,1.0,4.0,3.4444444444444446
+American,lemon bars,Lemon Bars,Sweet,Cold,1,6.0,1.0,4.0,3.4444444444444446
+Indian,chicken tikka,Chicken Tikka,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Korean,khao suey,Khao suey,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chiken kadai,Chiken Kadai,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,pasta,Pasta,Salty,Hot,4,5.930232558139535,5.0,4.0,3.4444444444444446
+Indian,indian,Indian,Spicy,Hot,0,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chicken hyderabadi ,Chicken Hyderabadi ,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,kofta balls,kofta balls,Spicy,Hot,6,1.0,3.0,1.0,1.0
+Indian,tomato dal with rice,Tomato Dal with Rice,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,bisi bele bath,Bisi bele bath,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,gobi manchurian ,Gobi Manchurian ,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,kaaju katli,Kaaju katli,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+American,chocolate sandwich ,Chocolate sandwich ,Sweet,Hot,1,7.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,masala puri,Masala puri,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,north indian thali ,North Indian thali ,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chicken biryani,Chicken biryani,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chole bature,Chole Bature,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,biryani,Biryani,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chaat ,Chaat ,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,spaghetti,Spaghetti,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,biriyani,Biriyani,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,sambar rice ,Sambar rice ,Spicy,Hot,5,2.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,tomato chutney with dosa,Tomato chutney with dosa,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,idly sambar,idly sambar,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,biriyani,Biriyani,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,bat,Bat,Salty,Cold,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,pasta,Pasta,Spicy,Hot,4,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,chicken chettinad ,Chicken Chettinad ,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,palak paneer,Palak Paneer,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Italian,lasagna,Lasagna,Salty,Hot,4,5.930232558139535,6.0,4.0,3.4444444444444446
+Chinese,hakka noodles,Hakka Noodles,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Chinese,peking duck,Peking Duck,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,burger,Burger,Spicy,Hot,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Korean,kimchi,Kimchi,Sour,Cold,3,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,karela ka bharta,Karela ka Bharta,Bitter,Cold,3,5.930232558139535,3.6578947368421053,4.0,5.0
+Italian,ravioli,Ravioli,Salty,Hot,3,5.930232558139535,4.0,4.0,3.4444444444444446
+Chinese,cockroach manchurian,Cockroach Manchurian,Salty,Hot,4,5.930232558139535,4.0,4.0,3.4444444444444446
+American,nachos,Nachos,Salty,Cold,2,5.930232558139535,4.0,4.0,3.4444444444444446
+Korean,jjajangmyeon,Jjajangmyeon,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,vada pav,Vada Pav,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,sev puri,Sev Puri,Spicy,Hot,5,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,khichdi,Khichdi,Salty,Hot,4,5.930232558139535,3.0,4.0,3.4444444444444446
+Indian,mooti choor laddoo,Mooti choor laddoo,Sweet,Cold,1,9.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,kunda,Kunda,Sweet,Cold,1,8.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,pedha,Pedha,Sweet,Cold,1,8.0,3.6578947368421053,4.0,3.4444444444444446
+Indian,biriyani ,Biriyani ,Spicy,Hot,6,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+American,hamburger,Hamburger,Salty,Hot,4,5.930232558139535,4.0,4.0,3.4444444444444446
+Indian,pani puri,pani puri,Sour,Cold,6,5.930232558139535,4.0,6.0,3.4444444444444446
+Indian,chicken biriyani,chicken biriyani,Spicy,Hot,7,5.930232558139535,3.6578947368421053,4.0,3.4444444444444446
+Indian,gulab jamun,Gulab Jamun,Sweet,Hot,1,8.0,2.0,4.0,3.4444444444444446
+Indian,payasam,Payasam,Sweet,Hot,2,7.0,2.0,4.0,3.4444444444444446
+Indian,kesari,Kesari,Sweet,Hot,1,7.0,2.0,4.0,3.4444444444444446
+Indian,halwa,Halwa,Sweet,Cold,1,9.0,1.0,4.0,3.4444444444444446
+Indian,Khatta Dhokla,Khatta Dhokla,Sour,Hot,5,1.0,3.6578947368421053,7.0,3.4444444444444446
+Indian,pithore kadhi,Pithore Kadhi,Sour,Hot,4,1.0,3.6578947368421053,8.0,3.4444444444444446
+Indian,green garlic chutney,Green Garlic Chutney,Sour,Cold,7,5.930232558139535,3.6578947368421053,8.0,3.4444444444444446
+Indian,bharwa karela,Bharwa Karela,Bitter,Hot,4,5.930232558139535,3.6578947368421053,4.0,9.0
+Indian ,Methichi Usal,Methichi Usal,Bitter,Hot,7,5.930232558139535,3.6578947368421053,4.0,7.0
+Indian,dried fish, dried fish,Salty,Hot,6,5.930232558139535,7.0,4.0,3.4444444444444446
+Indian,papad,papad,Salty,Hot,6,5.930232558139535,6.0,4.0,3.4444444444444446
+American,popcorn,popcorn,Salty,Hot,4,5.930232558139535,8.0,4.0,3.4444444444444446
